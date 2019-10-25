@@ -1,0 +1,13 @@
+model_config_list {
+    config {
+        name: 'my_model'
+        base_path: '/models/my_model/'
+        model_platform: 'tensorflow'
+        model_version_policy {
+            specific {
+                versions: 1571697725
+                versions: 1571698198
+            }
+        }
+    }
+ }

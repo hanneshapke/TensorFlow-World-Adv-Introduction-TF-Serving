@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# project
+example_model/dataset.csv
+tf-world-tf-serving/
