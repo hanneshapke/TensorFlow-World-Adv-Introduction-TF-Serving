@@ -35,7 +35,7 @@ more-itertools==7.2.0
 nbconvert==5.6.0
 nbformat==4.4.0
 notebook==6.0.1
-numpy==1.17.3
+numpy==1.22.0
 opt-einsum==3.1.0
 pandas==0.25.2
 pandocfilters==1.4.2
